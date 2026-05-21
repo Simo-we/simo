@@ -33,7 +33,7 @@ function Nav() {
     <>
       <div className={`navigation-bar ${scrolled ? 'scrolled' : ''}`}>
         <nav className="navi">
-          <div className="logo">Simo RadicaL Engineer</div>
+          <div className="logo">Simo</div>
 
           {/* Desktop links */}
           <div className="link-wrapper">
